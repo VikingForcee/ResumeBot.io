@@ -1,0 +1,7 @@
+pdfplumber
+python-docx
+pandas
+scikit-learn
+streamlit
+email-validator
+python-dotenv

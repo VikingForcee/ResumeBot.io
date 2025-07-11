@@ -1,0 +1,10 @@
+Job Description
+Project Role : AI / ML Engineer
+Project Role Description : Develops applications and systems that utilize AI tools, Cloud AI services, with proper cloud or on-prem application pipeline with production ready quality. Be able to apply GenAI models as part of the solution. Could also include but not limited to deep learning, neural networks, chatbots, image processing.
+Must have skills : Google Cloud Machine Learning Services
+Good to have skills : NA
+Minimum 5 year(s) of experience is required
+Educational Qualification : 15 years full time education
+
+Summary: As an AI/ML Engineer, you will develop applications and systems utilizing AI tools, Cloud AI services, and GenAI models. Your role involves creating cloud or on-prem application pipelines with production-ready quality, incorporating deep learning, neural networks, chatbots, and image processing. Roles & Responsibilities: - Expected to be an SME. - Collaborate and manage the team to perform. - Responsible for team decisions. - Engage with multiple teams and contribute on key decisions. - Provide solutions to problems for their immediate team and across multiple teams. - Lead the implementation of AI/ML solutions. - Research and experiment with new AI technologies. - Conduct code reviews and ensure best practices are followed. Professional & Technical Skills: - Must To Have Skills: Proficiency in Google Cloud Machine Learning Services. - Strong understanding of statistical analysis and machine learning algorithms. - Experience with data visualization tools such as Tableau or Power BI. - Hands-on implementing various machine learning algorithms such as linear regression, logistic regression, decision trees, and clustering algorithms. - Solid grasp of data munging techniques, including data cleaning, transformation, and normalization to ensure data quality and integrity. Additional Information: - The candidate should have a minimum of 7.5 years of experience in Google Cloud Machine Learning Services. - This position is based at our Chennai office. - A 15 years full-time education is required.
+
